@@ -4,6 +4,6 @@ A compatibility layer for Gray streams including extensions
 
 |---------+-------------------------------------------------------------|
 | source  | git:https://github.com/yitzchak/nontrivial-gray-streams.git |
-| commit  | 70c8a09                                                     |
+| commit  | aaf3b6b                                                     |
 | systems | nontrivial-gray-streams                                     |
 |---------+-------------------------------------------------------------|
